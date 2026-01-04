@@ -1,4 +1,4 @@
-package com.lolsilvan.hbrain;
+package com.lolsilvan.hbrain.receptor;
 
 public enum Transmitter {
     GLUTAMATE,

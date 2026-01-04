@@ -1,5 +1,7 @@
 package com.lolsilvan.hbrain;
 
+import com.lolsilvan.hbrain.receptor.Receptor;
+
 import java.util.List;
 
 public class Neuron {
