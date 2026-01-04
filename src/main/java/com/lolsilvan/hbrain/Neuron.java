@@ -10,6 +10,7 @@ public class Neuron {
     private float voltage;
     private float threshold;
     private float size;
+    private List<Receptor> channels;
     private List<Dendrite> dendrites;
     private Axon axon;
     // +20 - +40 mV
